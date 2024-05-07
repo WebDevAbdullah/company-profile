@@ -1,3 +1,3 @@
-# Hsoub Academy Company Page
+# Landing page for Company Profile
 
-See my website live: [Company Page](https://webdevabdullah.github.io/hsoub-company-page/)
+See my website live: [Company Profile](https://webdevabdullah.github.io/hsoub-company-page/)
